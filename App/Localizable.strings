@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  digitalbar2020
+
+  Created by user on 2020/11/9.
+  
+*/
+"username"="Please input your username";
+"password"="Please input your password";
+"rememberMe"="RememberMe";
+"login"="login";
+"Tips"="Tips";
+"usernameEmpty"="The user name cannot be empty";
+"passwordEmpty"="The password cannot be empty";
+"determine"="determine";
+"usernameError"="Wrong user name or password";
+"unreachNetwork"="Unable to connect to the network";
+"unserver"="unable to connect to the server";
+"remPassword"="Remember the password";
+"cancel"="cancel";
+"storeFind"="Search store or address";
+"deviceType"="type";
+"deviceNumber"="number";
+"deviceDetail"="detail";
+"topDetail"="top detail";
+"feedback"="feedback";
+"shutdown"="shutdown";
+"restart"="restart";
+"clear"="clear";
+"configurationDetails"="configuration details";
+"camera"="camera";
+"aistick"="AiStick";
+"4g"="4G";
+"software"="software";
+"hardwareStatus"="hardware status";
+"normal"="normal";
+"exception"="exception";
+"exeptionDetail"="exception detail";
+"exceptionCause"="exception cause";
+"solution"="solution";
+"submit"="submit";
+"feedbackRecord"="feedback record";
+"delete feedback"="delete feedback?";
+"textModel"="text model";
+"mapModel"="map model";
+"scanModel"="scan model";
+"content"="Please input your feedback";
+"contact"="Please enter your contact information";
+"empty"="Content can not empty";
+"submitError"="Duplicate submission of content";
+"submitSuccess"="Submit success";
+"operationSuccess"="OPeration success";
+"operationFailed"="OPeration failed";
+"queryFailed"="Query failed";
+"delete"="Are you sure you want to delete it?";
+"inputLocation"="Search store name or address";
+"viewDetails"="view details";
+"select"="select";
+"search"="search";
+"devicelist"="device list";
+"storeInfo"="store information";
+"deviceInfo"="device information";
+"storeName"="store name";
+"branchName"="branch name";
+"storeAddress"="store address";
+"phone"="phone";
+"addStore"="add store";
+"mapSearch"="map search";
